@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Bipul Kumar
 
-<!--
-**Bipul20000/Bipul20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a 3rd Year Information Technology engineering student passionate about coding, technology, and building real-world projects. I love working on innovative solutions, especially in Web Development, IoT, Data Science, and Software Engineering.
 
-Here are some ideas to get you started:
+### 💻 Technologies I Work With
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express
+- **Databases**: MySQL, MongoDB, Firebase
+- **Programming Languages**: Python, C++, Java
+- **Tools & Platforms**: Git, GitHub, VS Code, Streamlit, Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Web Development (MERN Stack)
+- Cloud Technologies
+- Machine Learning & Data Science
+
+### 📊 GitHub Stats
+![Bipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
