@@ -16,7 +16,8 @@ I'm a 3rd Year Information Technology engineering student passionate about codin
 - Machine Learning & Data Science
 
 ### 📊 GitHub Stats
-![Bipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Bipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipul20000&show_icons=true&theme=radical)
+
 
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
